@@ -4,7 +4,7 @@
 
 Contained here is a tutorial to get your started with the basics of Homology Modelling.
 
-The tutorial is self contained within the `homology-modelling-tutorial.ipynb` jupyter notebook.
+The tutorial is self contained within the `homology-modelling-tutorial_2023.ipynb` jupyter notebook.
 
 
 ## Getting started
